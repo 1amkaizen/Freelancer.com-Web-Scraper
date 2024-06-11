@@ -30,9 +30,9 @@ python3 main.py -p 1
 ```
 
 
-Skrip ini akan memulai proses scraping data dari Freelancer.com. Setelah proses selesai, hasilnya akan disimpan dalam file Excel dengan nama `projects.xlsx` di direktori yang sama dengan skrip.
+Skrip ini akan memulai proses scraping data dari Freelancer.com. Setelah proses selesai, hasilnya akan disimpan dalam file Excel dengan nama `output.xlsx` di direktori yang sama dengan skrip.
 
-2. Buka file `projects.xlsx` menggunakan aplikasi spreadsheet seperti Microsoft Excel, LibreOffice Calc, atau Google Sheets untuk melihat dan menganalisis data proyek yang telah diambil.
+2. Buka file `output.xlsx` menggunakan aplikasi spreadsheet seperti Microsoft Excel, LibreOffice Calc, atau Google Sheets untuk melihat dan menganalisis data proyek yang telah diambil.
 
 ## Pengaturan Tambahan
 
